@@ -4,14 +4,14 @@
 Note: not all RDCs are measured by al-hashimi lab
 
 ### Data Format (csv file)
-res_id_1: the first atom's residue index
-res_name_1: the first atom's residue name
-atom_1: the first atom name
-res_id_2: the second atom's residue index
-res_name_2: the second atom's residue name
-atom_2: the second atom name
-bond_vector: the RDC bond vector
-rdc: the RDC value
+##### res_id_1: the first atom's residue index
+##### res_name_1: the first atom's residue name
+##### atom_1: the first atom name
+##### res_id_2: the second atom's residue index
+##### res_name_2: the second atom's residue name
+##### atom_2: the second atom name
+##### bond_vector: the RDC bond vector
+##### rdc: the RDC value
 
 ### TAR
 #### Al-Hashimi lab
